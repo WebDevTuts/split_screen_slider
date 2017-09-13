@@ -46,3 +46,16 @@ body {
 .layer h1 {
   font-size: 2em;
 }
+
+.bottom {
+  background:#222;
+  z-index: 1;
+}
+
+.bottom .content-body {
+  right: 5%;
+}
+
+.bottom h1 {
+  color: #fdab00;
+}

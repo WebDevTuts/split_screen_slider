@@ -100,3 +100,9 @@ body {
   transform: skew(30deg);
   margin-left: 1000px;
 }
+
+@media (max-width: 768px) {
+  body {
+    font-size: 75%;
+  }
+}
